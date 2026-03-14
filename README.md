@@ -11,9 +11,8 @@ My expertise sits at the intersection of data analytics, commercial decision-mak
 and operational delivery — translating complex datasets into clear, actionable insights
 that support real business outcomes.
 Beyond analytics, I bring hands-on experience in fast-paced operational environments,
-governance and documentation, stakeholder communication and formal meeting
-coordination — including two years as Vice President of an executive committee with
-responsibility for agendas, minutes and governance records.
+stakeholder communication, structured documentation and cross-functional
+collaboration — consistently delivering high-quality work under pressure.
 I am currently open to full-time opportunities in commercial management,
 business analytics, procurement support and public sector operations across the UK.
 
@@ -44,27 +43,6 @@ Key outcome: Demonstrated practical value of predictive analytics in reducing
 unplanned downtime and maintenance costs in safety-critical fleet environments.
 Python Scikit-learn Pandas NumPy Matplotlib Seaborn
 Random Forest Logistic Regression Decision Tree Class Imbalance
-
-📊 Public Sector Contract Register Analysis
-Procurement & Commercial Insights Project · 2025
-Analysed a live public sector contract register of 314 contracts to identify
-procurement trends, compliance risks and 12-month forward planning requirements
-across multiple Council directorates.
-What I did:
-
-Built structured Excel models using PivotTables and COUNTIFS to examine
-contract distribution, procurement procedure usage and lifecycle timelines
-Identified that 95.5% of contracts were concentrated across 3 directorates
-— highlighting procurement dependency risks with recommendations for diversification
-Evaluated procurement method distribution — Light Touch, RFQ and Framework
-Direct Award accounted for 57% of activity — with oversight recommendations
-Forecasted 98 contracts expiring within 12 months, producing a prioritised
-action plan for timely renewal, retendering and supplier engagement
-
-Key outcome: Structured commercial recommendations for compliance improvement,
-resource planning and procurement governance across a public sector organisation.
-Advanced Excel PivotTables COUNTIFS VLOOKUP Procurement Analysis
-Compliance Monitoring Data Visualisation
 
 🚆 Revenue Optimisation Model — TrainEast Case Study
 MSc Commercial Analytics Case Study · 2023
@@ -118,15 +96,6 @@ BA Key Modules: Micro & Macro Economics · Econometrics · Quantitative Methods
 · Financial Economics
 
 🤝 Leadership & Volunteering
-Vice President — Student Political Unit
-Malabar Christian College · Dec 2019 – Jan 2022 · 2 years
-
-Organised and chaired weekly executive meetings — preparing formal agendas,
-taking accurate minutes directly during sessions and maintaining governance
-documentation including decision logs and action trackers
-Coordinated communication between student representatives and university
-administration, managing correspondence and information flow
-
 Executive Member — National Service Scheme (NSS)
 Malabar Christian College · Aug 2019 – Jan 2022 · 2.5 years
 
